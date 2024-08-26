@@ -1,0 +1,20 @@
+
+.btn-Encriptar{
+    width: Fixed 328px;
+    height: Hug 67px;
+    padding: 24px;
+    gap: 8px;
+    border-radius: 24px;
+    opacity: 0px;
+
+}
+
+
+
+.text-area{
+    background-color: #B3C890;
+    border-color: #F5F0BB;
+    color: #798777;
+    margin-top: 90px;
+    text-transform: lowercase;
+}
